@@ -11,8 +11,8 @@ var questionList = [
   },
   {
     question: "Arrays in JavaScript can be used to store _______",
-    choices: ["1. numbers and strings", "2. other arrays", "3. booleans", "4. all of the above"],
-    answer: 4
+    choices: ["numbers and strings", "other arrays", "booleans", "all of the above"],
+    answer: 3
   },
   {
     question: "String values must be enclosed within ________ when being assigned to variables.",
